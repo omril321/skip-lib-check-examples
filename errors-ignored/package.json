@@ -1,0 +1,10 @@
+{
+  "name": "errors-ignored",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "npx tsc --project . && echo 'success!'",
+    "tsc-with-skipLibCheck": "npx tsc  --project . --skipLibCheck && echo 'success!'"
+  },
+  "author": "Omri Lavi",
+  "license": "ISC"
+}
