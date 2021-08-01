@@ -31,7 +31,7 @@ some-file.d.ts:5:1 - error TS2304: Cannot find name 'oh_no_unexpected_string'.
 Found 4 errors.
 ```
 
-When compiling with `skipLibCheck`, the errors are being ignored:
+When compiling with `skipLibCheck`, the syntax and type errors are being ignored:
 
 ```bash
 > npx tsc  --project . --skipLibCheck && echo 'success!'

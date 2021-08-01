@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "noEmit": true,
+    "noEmitOnError": true
+  }
+}
