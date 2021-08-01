@@ -1,4 +1,4 @@
-# skipLibCheck Example 1 - Ignoring Errors
+# skipLibCheck Example 2 - Invalid types treated as any
 
 In this example, you can see that `tsc` treats invalid types as `any` when `skipLibCheck` is enabled.
 
